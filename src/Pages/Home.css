@@ -1,0 +1,76 @@
+@import url('https://fonts.cdnfonts.com/css/netflix-font');
+
+*{
+
+    font-family: 'Netflix Font', sans-serif;
+}
+
+.home-main{
+    height: 100vh;
+    background-image: url(../Images/MoviePoster.png);
+}
+
+.cont{
+    display: flex;
+    position:absolute;
+    flex-direction: column;
+    color: white;
+    margin-left: 40px;
+    margin-top: 200px;
+}
+
+.head h1{
+    margin: 0;
+    padding: 0;
+}
+
+.top10{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.text{
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    font-size: 18px;
+}
+
+.buttons a{
+    margin: 5px 10px;
+}
+
+
+
+.movies img{
+    margin: 0px 3px;
+    width: 270px;
+}
+
+.movies{
+    display: flex;
+    position: absolute;
+    margin-top: 85vh;
+    flex-direction: column;
+}
+
+.heading{
+    color: white;
+    margin-left: 10px;
+    font-size: 26px;
+}
+
+.movie-popular{
+    width: 208.5vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mov:hover{
+    cursor: pointer;
+    border: 0.2px solid white;
+}

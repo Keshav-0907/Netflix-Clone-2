@@ -1,0 +1,20 @@
+.footer-main{
+    background-color: #141414;
+    color: white;
+}
+
+.options{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 300px 0px 150px;
+}
+
+.socials{
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+
+.opt p:hover{
+    cursor: pointer;
+}
