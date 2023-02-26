@@ -9,5 +9,5 @@ To get started, you will need to do the following:
 2. Install the dependencies using ```npm install```.
 3. Run the project using  ```npm start```.
 
-## Contributing
+## Contributions
 If you'd like to contribute to this project, please create a pull request. We welcome all contributions! :)
